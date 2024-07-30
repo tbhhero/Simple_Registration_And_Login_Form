@@ -1,6 +1,3 @@
-Sure! Here's a template for a `README.md` file tailored to your project. This README includes sections for a project description, setup instructions, and usage details. You can customize it further based on your needs.
-
-```markdown
 # Simple Registration and Login Form
 
 This project provides a simple registration and login form with modern design and responsive layout. It includes a registration form and a login form, both styled with CSS and using Google Fonts for improved typography.
