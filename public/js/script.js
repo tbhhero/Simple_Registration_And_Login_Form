@@ -14,9 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
       console.log('Email:', email);
       console.log('Username:', username);
       console.log('Password:', password);
-  
-      // Add your form submission logic here
-      // For example, send data to a server using fetch or XMLHttpRequest
+
     });
   });
   
