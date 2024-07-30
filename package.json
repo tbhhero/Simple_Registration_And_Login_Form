@@ -1,0 +1,16 @@
+{
+    "name": "simple_registration_and_login_form",
+    "version": "1.0.0",
+    "description": "Sure! Here's a template for a `README.md` file tailored to your project. This README includes sections for a project description, setup instructions, and usage details. You can customize it further based on your needs.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
+  
