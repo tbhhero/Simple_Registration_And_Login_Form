@@ -43,12 +43,12 @@ This project provides a simple registration and login form with modern design an
 
 3. Open `Login.html`/`Register.html` in your preferred web browser to view the forms.
 
-### Screenshot
-## Registration_Form
+## Screenshot
+### Registration_Form
 
 <img src="screenshot/screenshot1.png" alt="Screenshot" height="720">
 
-## Login_Form
+### Login_Form
 
 <img src="screenshot/screenshot1.png" alt="Screenshot" height="720">
 ### Usage
