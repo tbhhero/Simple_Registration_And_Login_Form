@@ -13,7 +13,7 @@ This project provides a simple registration and login form with modern design an
 - **Technologies Used**:
   - HTML
   - CSS
-  - Google Fonts
+  - Google Font
 
 ## Project Structure
 
